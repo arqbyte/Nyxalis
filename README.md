@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/Discord-arqbyte.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
     <a href="https://github.com/Nyxalis">
-      <img src="https://img.shields.io/badge/GitHub-Nyxalis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      <img src="https://img.shields.io/badge/GitHub-arqbyte-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </div>
 </div>
@@ -21,7 +21,7 @@ Backend Developer based in the UK, originally from Sri Lanka. I enjoy solving co
 - 🤝 Passionate about helping others and contributing to open-source communities
 - ℹ️ Previously active on GitHub as [Juice2007](https://github.com/Juice2007)
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (needs updating)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -44,14 +44,13 @@ I'm currently working on various backend projects and expanding my knowledge in 
 
 ## 🔥 GitHub Stats
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nyxalis&theme=dark&background=000000" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arqbyte)](https://git.io/streak-stats)
+
 
 ## 📨 Contact Me
 
 - Discord: [Arqbyte.](https://discord.com/users/741337166172389407)
-- GitHub: [@Nyxalis](https://github.com/Nyxalis)
+- GitHub: [@arqbyte](https://github.com/arqbyte)
 
 ## 💡 Did you know?
 
@@ -60,5 +59,5 @@ I'm currently working on various backend projects and expanding my knowledge in 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nyxalis&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=arqbyte&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
